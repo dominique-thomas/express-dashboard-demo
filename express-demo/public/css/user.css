@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body{
+	font-weight:normal;
+}
+
+#modifyUserFakeSubmitBtn{
+	float:right;
+}
+
+#readonlyEmail{
+	background-color: #e9ecef;
+	color:#000000;
+}
